@@ -10,9 +10,11 @@ Crawling recruitment information from LinkedIn,Take the algorithm engineer as an
 ![avatar](/images/LinkedIn_data.png)
 
 # 文件名——用法
+1. 代码文件
 - get_html.py：获取详情页连接
 - get_info.py：获取职业详情
 - data.py：整理数据格式
 - cl_data.py：数据清洗
+2. 生成文件
 - Info.html	用于查看爬虫内容
 - Lingyin.xlsx:数据
